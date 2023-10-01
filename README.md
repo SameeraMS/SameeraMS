@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi..!! I'm Sameera Madushan Silva..
+- 🔭 I’m currently learning Software Engineering..
+- 🌱 My Tech stacks includes Java, Mysql, Javafx, JDBC..
+- 📫 You can reach me at madushansameera499@gmail.com 
+
+
 
 <!--
 **SameeraMS/SameeraMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
