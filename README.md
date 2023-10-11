@@ -16,7 +16,7 @@
 
 ---
 
-<h2> 🚀 &nbsp;My Favourite Tools & Technologies</h2>
+<h2> 🚀 &nbsp;My Favourite Languages & Tools</h2>
 <p align="left">
 
   <table>
