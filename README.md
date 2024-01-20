@@ -85,6 +85,13 @@
 
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerams" alt="sameerams" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerams&show_icons=true&locale=en&layout=compact" alt="sameerams" /></p>
+
+<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerams&label=Profile%20views&color=0e75b6&style=flat" alt="sameerams" /> </p>
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
