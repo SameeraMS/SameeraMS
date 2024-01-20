@@ -14,6 +14,8 @@
 - 🌱 My Tech stacks includes Java, Mysql, Javafx, JDBC..
 - 📫 You can reach me at madushansameera499@gmail.com
 
+  <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerams&label=Profile%20views&color=0e75b6&style=flat" alt="sameerams" /> </p></center>
+
 ---
 
 <h2> 🚀 &nbsp;My Favourite Languages & Tools</h2>
@@ -89,8 +91,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerams&show_icons=true&locale=en&layout=compact" alt="sameerams" /></p>
 
-<br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerams&label=Profile%20views&color=0e75b6&style=flat" alt="sameerams" /> </p>
+
 
 
 <p align="left">
