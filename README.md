@@ -40,8 +40,7 @@
      <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
       <br>MySQL
-    </td></tr>
-    <tr>
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -49,7 +48,8 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
-    </td>
+    </td></tr>
+    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -58,8 +58,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
       <br>Figma
       </td>
-  </tr>
-   <tr>
       </td>
         <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
