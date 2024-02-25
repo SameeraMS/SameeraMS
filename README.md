@@ -14,7 +14,7 @@
 - 🌱 My Tech stacks includes Java, Mysql, Javafx, JDBC..
 - 📫 You can reach me at madushansameera499@gmail.com
 
-  <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerams&label=Profile%20views&color=0e75b6&style=flat" alt="sameerams" /> </p></center>
+  <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=SameeraMS&label=Profile%20views&color=0e75b6&style=flat" alt="SameeraMS" /> </p></center>
 
 ---
 
