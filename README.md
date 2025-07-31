@@ -24,7 +24,7 @@
   <a href="https://medium.com/@sameerams" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://sameerams.vercel.app" target="_blank">
+  <a href="https://sameerams.site" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-ebe8e5.svg?style=for-the-badge&logo=&logoColor=white" alt="Portfolio" />
   </a>
 </p>
