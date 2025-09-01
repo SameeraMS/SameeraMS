@@ -11,7 +11,7 @@
 
 - 👋 Hi..!! I'm Sameera Madushan Silva..
 - 🔭 I’m currently learning Software Engineering..
-- 📫 You can reach me at madushansameera499@gmail.com
+- 📫 You can reach me at www.sameerams.site
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
